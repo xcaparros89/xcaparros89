@@ -9,12 +9,12 @@
 
 - Studies: IronHack's web developer bootcamp.
 
+- Languages: HTML, CSS, Javascript, React, Typescript, PHP, NodeJS
+
 - How to reach me **xcaparros89@gmail.com**
 <a href="https://www.linkedin.com/in/xavier-caparros-gelabert/" target="blank"><img align="center" src="https://avatars3.githubusercontent.com/u/357098?v=4" alt="fennecdjay" height="30" width="30" /></a>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=xcaparros89&theme=nord&title=Commit,PullRequest,Repositories)
-
-<img src="https://github-readme-stats.vercel.app/api?username=xcaparros89&layout=compact&theme=dark&show_icons=true" alt="xcaparros89" />
 
 ## Language Usage ~ Status
 
