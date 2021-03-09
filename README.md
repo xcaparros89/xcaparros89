@@ -5,7 +5,7 @@
 
 - I’m looking for a job as a junior developer in Frontend or Backend.
 
-- Latest work: [Robo-race](robo-race-game.herokuapp.com/)
+- Latest work: [Robo-race](https://robo-race-game.herokuapp.com/)
 
 - Studies: IronHack's web developer bootcamp.
 
